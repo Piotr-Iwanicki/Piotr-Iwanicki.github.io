@@ -20,7 +20,9 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#8c8c8c"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
@@ -44,7 +46,7 @@
       "textButton": "OK, Rozumiem"
     },
     "gdpr": false,
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -172,7 +174,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "Witam serdecznie <br>na mojej stronie",
+          "title": "Witam serdecznie <br>&nbsp;na mojej stronie<br><br><br>",
           "text": "xxx",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -182,8 +184,9 @@
           "_anchor": "header1-0",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px",
-              "color": "#efefef"
+              "font-size": "60px",
+              "color": "#efefef",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
               "color": "#c1c1c1"
@@ -193,10 +196,10 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#cccccc"
             },
             ".mbr-section-subtitle": {
-              "color": "#cccccc",
+              "color": "#c1c1c1",
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
@@ -207,8 +210,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -230,6 +233,29 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": "Informacje o mnie",
+          "meta": "&nbsp;aktualizacja 25.06.2020 r.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z"
         },
         {
           "_params": {
@@ -267,7 +293,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x429.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -278,7 +304,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x451.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x285.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -289,7 +315,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x386.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x424.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -320,7 +346,7 @@
           "title1": "Doświadczenie zawodowe",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Wykształcenie, kursy, szkolenia, certyfikaty",
+          "title2": "Wykształcenie, szkolenia",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Umiejętności",
