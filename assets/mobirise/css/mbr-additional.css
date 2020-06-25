@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
+
 
 
 
@@ -529,71 +531,20 @@ section.form .container {
 #header1-0 .mbr-section-lead {
   color: #c1c1c1;
 }
-#header5-2 .mbr-section-title {
-  color: #000;
-}
-#header5-2 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#msg-box6-5 h3,
-#msg-box6-5 p {
+#msg-box2-x .mbr-section-title {
   color: #fff;
 }
-#features7-d .card-subtitle {
-  color: #bcbcbc;
+#msg-box2-x .mbr-section-subtitle {
+  color: #cccccc;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
 }
-#features7-d .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
+#features3-y H4 {
+  color: #cccccc;
 }
-#features1-e .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#features3-y P {
+  color: #cccccc;
 }
-#slider2-g .mbr-section-title,
-#slider2-g .mbr-section-lead {
-  color: #fff;
-}
-#content8-h .mbr-section-title,
-#content8-h .lead {
-  text-align: right;
-  color: #fff;
-}
-#msg-box3-j .mbr-section-title,
-#msg-box3-j .lead {
-  color: #000;
-}
-#testimonials3-k .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-k .mbr-author-name {
-  color: #ccc;
-}
-#pricing-table1-n .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-n .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#pricing-table2-p .mbr-plan-header,
-#pricing-table2-p .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-p ul,
-#pricing-table2-p .mbr-plan-title,
-#pricing-table2-p .mbr-price-value,
-#pricing-table2-p .mbr-price-figure,
-#pricing-table2-p .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-p .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-p .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#msg-box2-s .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-s .mbr-section-subtitle {
-  color: #a0a0a0;
+#features3-y H5 {
+  color: #c1c1c1;
 }
