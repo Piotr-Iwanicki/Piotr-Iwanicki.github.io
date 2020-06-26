@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#efefef",
         "secondaryColor": "#bfcecb",
         "successColor": "#a38f84",
         "infoColor": "#cccccc",
@@ -49,7 +49,7 @@
       "textButton": "OK, Rozumiem"
     },
     "gdpr": false,
-    "uniqCompNum": 70,
+    "uniqCompNum": 75,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -79,7 +79,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Galeria</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -129,7 +129,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             },
             "A": {
               "font-size": "12px"
@@ -228,7 +228,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Słów kilka na starcie ...<br><br>",
+          "title": "Słów kilka na początek ...<br><br>",
           "text": "<span style=\"font-style: normal;\">Strona powstała, abym mógł pełniej opowiedzieć o sobie, </span><span style=\"font-style: normal;\">kim </span><br><span style=\"font-style: normal;\">byłem, jestem i gdzie chciałbym zmierzać, abym mógł </span><span style=\"font-style: normal;\">dać szansę zainteresowanym na szersze przedstawienie </span><span style=\"font-style: normal;\">mojej osoby.<br><br>\n</span><div>\n</div><div><span style=\"font-style: normal;\">Własna strona www, daje wolność, bez ograniczeń oraz narzuconych schematów gotowych serwisów.\n</span></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-style: normal;\"> &nbsp; Zapraszam\n</span></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Piotr Iwanicki</div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
@@ -880,8 +880,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20200529-144549-2000x1125.jpg",
             "parallax": true,
@@ -893,16 +893,17 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/20190629-175729-1400x788.jpeg",
-              "link": "",
+              "link": "gallery.html#header3-22",
               "alt": "",
-              "title": ""
+              "title": "Zdjęcia z ciekawych miejsc",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -916,8 +917,8 @@
               "size": 250
             }
           },
-          "title": "Galeria",
-          "text": "Zdjęcia z odwiedzonych ostatnio ciekawych miejsc",
+          "title": "<a href=\"gallery.html#header3-22\" class=\"text-info\">Moja galeria</a>",
+          "text": "<a href=\"gallery.html#header3-22\" class=\"text-info\">Zdjęcia z odwiedzonych ostatnio ciekawych miejsc</a>",
           "_tags": [
             "Theme"
           ],
@@ -927,7 +928,7 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -949,7 +950,7 @@
               "name": "envelope",
               "family": "et-line",
               "link": "mailto:piwanicki@outlook.com",
-              "size": "80",
+              "size": "65",
               "active": true
             }
           },
@@ -961,6 +962,335 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-12"
+        }
+      ]
+    },
+    "gallery.html": {
+      "settings": {
+        "meta_descr": "Zdjęcia z ciekawych miejsc",
+        "title": "Galeria",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#080101"
+          },
+          "title": "Moja galeria zdjęć",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-22"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#000000",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20181031-102108-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20181031-102108-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Sopot, Kamienny Potok",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20190629-172552-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190629-172552-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "okolice jeziora Borowo",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20190629-175558-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190629-175558-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "okolice jeziora Borowo",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20190629-181759-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190629-181759-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "okolice jeziora Borowo",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20190630-173445-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190630-173445-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "okolice jeziora Borowo",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20190926-135931-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190926-135931-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Karlskrona",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20200314-123544-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200314-123544-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Gdynia, okolice polany Krykulec",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20200502-150659-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200502-150659-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Lubiatowo",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20200509-120322-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200509-120322-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "okolice Tucholi, droga na \"Jelenią Wyspę\"",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20200529-134850-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200529-134850-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "rezerwat Pełcznica",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20200529-143740-2000x1125.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200529-143740-2000x1125-800x450.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "rezerwat Pełcznica",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20200529-144549-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200529-144549-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "rezerwat Pełcznica",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "Wszystkie",
+          "_name": "gallery4",
+          "_anchor": "gallery4-21"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            },
+            "A": {
+              "font-size": "12px"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/circular-house-514-128x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "początek strony"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; PI &nbsp;Piotr Iwanicki</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1y"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "link": "mailto:piwanicki@outlook.com",
+              "size": "65",
+              "active": true
+            }
+          },
+          "text1": "<strong>Addres</strong><br>Gdynia, Mały Kack",
+          "text2": "<strong>Kontakty</strong><br>\n<a href=\"mailto:piwanicki@outlook.com\">Email: piwanicki(@)outlook.com</a><br>\n<a href=\"tel:+48 601 939 453\">Phone: +48 601 939 453</a><br>",
+          "text3": "<strong>Linki</strong><br><a href=\"https://www.linkedin.com/in/piotr-iwanicki/\" target=\"_blank\">Linkedin/Piotr-Iwanicki</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1z"
         }
       ]
     }
