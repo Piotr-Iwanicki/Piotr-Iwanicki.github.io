@@ -24,7 +24,8 @@
         "#8c8c8c",
         "#080101",
         "#322c2c",
-        "#232323"
+        "#232323",
+        "#424a4d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -43,7 +44,7 @@
       "colorButton": "",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "59",
+      "opacity": "73",
       "opacityOverlay": "69",
       "text": "Nie zbieram danych i nie śledzę aktywności użytkowników na tej stronie.",
       "textButton": "OK, Rozumiem"
@@ -79,7 +80,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"#top\">Strona główna</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -229,7 +230,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Słów kilka na początek ...<br><br>",
-          "text": "<span style=\"font-style: normal;\">Strona powstała, abym mógł pełniej opowiedzieć o sobie, </span><span style=\"font-style: normal;\">kim </span><br><span style=\"font-style: normal;\">byłem, jestem i gdzie chciałbym zmierzać, abym mógł </span><span style=\"font-style: normal;\">dać szansę zainteresowanym na szersze przedstawienie </span><span style=\"font-style: normal;\">mojej osoby.<br><br>\n</span><div>\n</div><div><span style=\"font-style: normal;\">Własna strona www, daje wolność, bez ograniczeń oraz narzuconych schematów gotowych serwisów.\n</span></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-style: normal;\"> &nbsp; Zapraszam\n</span></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Piotr Iwanicki</div>",
+          "text": "<span style=\"font-style: normal;\">Strona powstała abym mógł pełniej opowiedzieć o sobie, </span><span style=\"font-style: normal;\">kim&nbsp;</span><span style=\"font-style: normal;\">byłem, jestem i gdzie chciałbym zmierzać, aby </span><span style=\"font-style: normal;\">dać szansę zainteresowanym</span><br><span style=\"font-style: normal;\"> na szersze zaprezentowanie&nbsp;</span><span style=\"font-style: normal;\">mojej osoby.&nbsp;</span>Własna strona www, daje pełną wolność w tym obszarze, bez ograniczeń oraz narzuconych schematów gotowych serwisów.<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-style: normal;\"> &nbsp; Zapraszam\n</span></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Piotr Iwanicki</div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
@@ -398,8 +399,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
           "title": "Doświadczenie",
@@ -416,7 +417,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p>1999 - 2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Specjalista Dział Ekspertyz Szkód Komunikacyjnych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<b><span style=\"font-style: normal;\"> Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.</span><br></b></p><p><br></p><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p></blockquote>",
+          "text": "<blockquote><p>03/2019 – 01/2020 &nbsp; &nbsp; &nbsp; <b>Analityk Danych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global Income S.C.<br></p><p><br></p><p><span style=\"font-style: normal;\">Analiza sprzedaży głównie w obszaże e-commerce, raportowanie, dostosowywanie poziomu cen produktów, monitoring stanów magazynowych.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -434,7 +435,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>06/2015 - 07/2018 &nbsp; &nbsp; &nbsp; &nbsp;<b>Główny Specjalista Dział Obsługi Spraw Sądowych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.</p><p><br></p><p><span style=\"font-style: normal;\">Samodzielna obsługa spraw sądowych jako pełnomocnik procesowy z obszaru szkód komunikacyjnych. Współpraca z kancelariami prawnymi. Udział w audytach kancelarii zewnętrznych. Posiadam referencje (<a href=\"assets/files/referencje_PI.pdf\" target=\"_blank\">zobacz skan</a>).</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -452,7 +453,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>12/2012 - 06/2015 &nbsp; &nbsp; &nbsp; &nbsp;<b>Specjalista Dział Ekspertyz Szkód Komunikacyjnych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.</p><p><br></p><p><span style=\"font-style: normal;\">Obsługa spraw sądowych prowadzonych przez kancelarie prawne, głównie z obszaru szkód komunikacyjnych.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -470,7 +471,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>04/2010 - 12/2012 &nbsp; &nbsp; &nbsp; &nbsp;<b>Młodszy Specjalista ds. Likwidacji Szkód Komunikacyjnych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.<br></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Rozpatrywanie odwołań od decyzji Biura Likwidacji Szkód i kontrola przebiegu likwidacji. Przygotowywanie odpowiedzi na interwencje organów nadzoru. Przygotowywanie i prowadzenie szkoleń merytorycznych dla Biura Likwidacji Szkód.</span><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -488,7 +489,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>01/2006 - 04/2010 &nbsp; &nbsp; &nbsp;<b>Młodszy Specjalista ds. Likwidacji Szkód Komunikacyjnych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.<b><br></b></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Obsługa szkód komunikacyjnych z ryzyka Odpowiedzialności Cywilnej i Autocasco. Dedykowany likwidator szkód dla wybranych klientów z umowami generalnymi.</span><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -506,7 +507,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>10/2003 - 11/2005 &nbsp; &nbsp; &nbsp; <b>&nbsp;Regionalny Specjalista ds. Floty i Dystrybucji</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Nestle Waters Oddział Dar Natury Sp. z o.o.<br></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Analiza efektywności i kosztów dystrybucji. Nadzór nad gospodarką magazynową. Analiza sprzedaży w regionie północnym Polski.</span><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -524,7 +525,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>02/2003 - 10/2003 &nbsp; &nbsp; &nbsp; &nbsp;<b>Kierownik Działu Dystrybucji w Regionalnym Centrum Dystrybucji</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ESI Polska Zakład Dar Natury Sp. z o.o.<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Zarządzanie dystrybucją i gospodarką magazynową, nadzór nad wykonaniem budżetu działu. Kierowanie zespołem 4 specjalistów, 3 pracowników magazynu, 26 kierowców-dostawców.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -539,10 +540,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>09/2000 - 02/2003 &nbsp; &nbsp; &nbsp; &nbsp;<b>Specjalista ds. Operacyjnych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ESI Polska Zakład Dar Natury Sp. z o.o.<br></p><p><br></p><p><span style=\"font-style: normal;\">Planowanie dystrybucji i logistyka. Nadzór nad jakością obsługi klienta i terminowością dostaw.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -566,11 +567,11 @@
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#080101"
           },
           "title": "Wykształcenie",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
@@ -580,10 +581,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>1995 - 2000 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><span style=\"font-size: 1.09rem;\">Uniwersytet Gdański&nbsp;</span><span style=\"font-size: 1.07rem;\">Wydział Ekonomiczny</span></b></p><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">Transport i Logistyka, Katedra Rynku Transportowego</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Wykształcenie wyższe magisterskie na kierunku ekonomia w zakresie transport i logistyka</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -607,11 +608,11 @@
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "title": "Szkolenia &amp; certyfikaty",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
@@ -624,7 +625,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>01/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Selenium Python od podstaw</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Instalacja narzędzi (Webdriver, PyTest, Allure itd,) lokalizowanie elementów na stronie i wykonywanie na nich akcji, pisanie testów automatycznych, tworzenie raportów z testów, czytanie danych z pliku.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -642,7 +643,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>11/2019 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Kurs – Python dla początkujących</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;Organizator: Udemy</p><p><br></p><p><span style=\"font-style: normal;\">Wprowadzenie do języka Python 3: zmienne, instrukcje warunkowe, pętle, moduły, funkcje, obsługa błędów.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -660,7 +661,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>11/2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Certyfikat - ISTQB Certified Tester Foundation Level</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizacja: Global Association for Software Quality (GASQ)<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Uzyskałem podstawowy certyfikat testera oprogramowania - ISTQB (International Software Testing Qualifications Board)</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -678,7 +679,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>07/2018 - 10/2018 &nbsp; &nbsp;<b>Tester Manualny - kurs</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Organizator: Software Development Academy Sp. z o.o.<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">ponad 150 godzin zajęć z m.innymi: techniki projektowania testów, raportowanie defektów, narzędzia wspierające testowanie, testowanie API, SQL, badanie i analiza ryzyka, metodyki wytwarzania oprogramowania (Agille, Waterfall), wstęp do automatyzacji w oparciu o Selenium WebDriver.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -696,7 +697,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>02/2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Kurs - Analiza Danych – Podstawy, Teoria i Praktyka</b>\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizator: Udemy.com</p><p><br></p><p><span style=\"font-style: normal;\">Pozyskiwanie, przechowywanie i analiza danych z praktycznym wykorzystaniem Excel i SQL.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -714,7 +715,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>10/2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Kurs - SQL Server - zapytania. Querying</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizator: Udemy.com<br></p><p><br></p><p><span style=\"font-style: normal;\">Budowanie zapytań w Microsoft SQL Server (Transact-SQL).</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -738,7 +739,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
           "title": "Umiejętności",
@@ -797,7 +798,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "title": "Języki obce",
@@ -838,7 +839,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
           "title": "Zainteresowania",
@@ -1177,7 +1178,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"#top\">Strona główna</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
           "_tags": [
             "Theme"
           ],
