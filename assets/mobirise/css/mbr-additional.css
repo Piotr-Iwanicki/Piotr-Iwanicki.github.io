@@ -80,7 +80,7 @@ h6,
   background-color: #c0a375 !important;
 }
 .bg-success {
-  background-color: #90a878 !important;
+  background-color: #a38f84 !important;
 }
 .bg-info {
   background-color: #cccccc !important;
@@ -152,8 +152,8 @@ h6,
   border-color: #a6a6a6 !important;
 }
 .btn-success {
-  background-color: #90a878;
-  border-color: #90a878;
+  background-color: #a38f84;
+  border-color: #a38f84;
   color: #ffffff;
 }
 .btn-success:hover,
@@ -162,14 +162,14 @@ h6,
 .btn-success:active,
 .btn-success.active {
   color: #ffffff;
-  background-color: #6a8153;
-  border-color: #6a8153;
+  background-color: #7d695d;
+  border-color: #7d695d;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #6a8153 !important;
-  border-color: #6a8153 !important;
+  background-color: #7d695d !important;
+  border-color: #7d695d !important;
 }
 .btn-warning {
   background-color: #f3c649;
@@ -273,8 +273,8 @@ h6,
 }
 .btn-success-outline {
   background: none;
-  border-color: #5d7149;
-  color: #5d7149;
+  border-color: #6e5c53;
+  color: #6e5c53;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -282,14 +282,14 @@ h6,
 .btn-success-outline:active,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #90a878;
-  border-color: #90a878;
+  background-color: #a38f84;
+  border-color: #a38f84;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #90a878 !important;
-  border-color: #90a878 !important;
+  background-color: #a38f84 !important;
+  border-color: #a38f84 !important;
 }
 .btn-warning-outline {
   background: none;
@@ -335,7 +335,7 @@ h6,
   color: #c0a375 !important;
 }
 .text-success {
-  color: #90a878 !important;
+  color: #a38f84 !important;
 }
 .text-info {
   color: #cccccc !important;
@@ -347,7 +347,7 @@ h6,
   color: #f28281 !important;
 }
 .alert-success {
-  background-color: #90a878;
+  background-color: #a38f84;
 }
 .alert-info {
   background-color: #cccccc;
@@ -392,7 +392,7 @@ h6,
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #d0dac6;
+  color: #dad1cd;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -555,4 +555,107 @@ section.form .container {
 }
 #features3-y H5 {
   color: #c1c1c1;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 .mbr-section-title {
+  color: #efefef;
+}
+#content2-15 DIV {
+  color: #cccccc;
+}
+#content2-16 DIV {
+  color: #cccccc;
+}
+#content2-17 DIV {
+  color: #cccccc;
+}
+#content2-18 DIV {
+  color: #cccccc;
+}
+#content2-19 DIV {
+  color: #cccccc;
+}
+#content2-1a DIV {
+  color: #cccccc;
+}
+#content2-1b DIV {
+  color: #cccccc;
+}
+#content2-1c DIV {
+  color: #cccccc;
+}
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1f .mbr-section-title {
+  color: #efefef;
+}
+#content2-1g DIV {
+  color: #cccccc;
+}
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1h .mbr-section-title {
+  color: #efefef;
+}
+#content2-1i DIV {
+  color: #cccccc;
+}
+#content2-1l DIV {
+  color: #cccccc;
+}
+#content2-1k DIV {
+  color: #cccccc;
+}
+#content2-1m DIV {
+  color: #cccccc;
+}
+#content2-1n DIV {
+  color: #cccccc;
+}
+#content2-1j DIV {
+  color: #cccccc;
+}
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1o .mbr-section-title {
+  color: #efefef;
+}
+#content1-1q DIV {
+  color: #cccccc;
+}
+#content2-1p DIV {
+  color: #cccccc;
+}
+#header3-1r .mbr-section-title,
+#header3-1r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1r .mbr-section-title {
+  color: #efefef;
+}
+#content2-1s DIV {
+  color: #cccccc;
+}
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1t .mbr-section-title {
+  color: #efefef;
+}
+#content2-1u DIV {
+  color: #cccccc;
+}
+#msg-box6-1x h3,
+#msg-box6-1x p {
+  color: #fff;
 }
