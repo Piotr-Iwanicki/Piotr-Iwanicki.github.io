@@ -413,8 +413,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
           "text": "<blockquote><p>03/2019 – 01/2020 &nbsp; &nbsp; &nbsp; <b>Analityk Danych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global Income S.C.<br></p><p><br></p><p><span style=\"font-style: normal;\">Analiza sprzedaży głównie w obszarze e-commerce (Allegro), raportowanie, dostosowywanie poziomu cen produktów, monitoring stanów magazynowych.</span></p></blockquote>",
@@ -431,8 +431,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
           "text": "<blockquote><p>06/2015 - 07/2018 &nbsp; &nbsp; &nbsp; &nbsp;<b>Główny Specjalista Dział Obsługi Spraw Sądowych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.</p><p><br></p><p><span style=\"font-style: normal;\">Samodzielna obsługa spraw sądowych jako pełnomocnik procesowy z obszaru szkód komunikacyjnych. Współpraca z kancelariami prawnymi. Udział w audytach kancelarii zewnętrznych. Posiadam referencje (<a href=\"assets/files/referencje_PI.pdf\" target=\"_blank\">zobacz skan</a>).</span></p></blockquote>",
@@ -449,8 +449,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
           "text": "<blockquote><p>12/2012 - 06/2015 &nbsp; &nbsp; &nbsp; &nbsp;<b>Specjalista Dział Ekspertyz Szkód Komunikacyjnych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.</p><p><br></p><p><span style=\"font-style: normal;\">Koordynacja i obsługa spraw sądowych (uzgadnianie stanowiska, aktualizacja rezerw, decyzje co do zastosowania środka zaskarżenia itp.) prowadzonych przez zewnętrzne kancelarie prawne na terenie Polski, głównie z obszaru szkód komunikacyjnych.</span></p></blockquote>",
@@ -467,11 +467,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p>04/2010 - 12/2012 &nbsp; &nbsp; &nbsp; &nbsp;<b>Młodszy Specjalista ds. Likwidacji Szkód Komunikacyjnych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.<br></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Rozpatrywanie odwołań od decyzji Biura Likwidacji Szkód i kontrola przebiegu likwidacji. Przygotowywanie odpowiedzi na interwencje organów nadzoru. Przygotowywanie i prowadzenie szkoleń merytorycznych dla Biura Likwidacji Szkód.</span><br></p></blockquote>",
+          "text": "<blockquote><p>04/2010 - 12/2012 &nbsp; &nbsp; &nbsp; &nbsp;<b>Młodszy Specjalista ds. Likwidacji Szkód Komunikacyjnych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.<br></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Rozpatrywanie odwołań od decyzji Biura Likwidacji Szkód i kontrola przebiegu likwidacji. Przygotowywanie odpowiedzi na interwencje organów nadzoru. Przygotowywanie i prowadzenie szkoleń merytorycznych dla Biura Likwidacji Szkód.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -485,11 +485,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p>01/2006 - 04/2010 &nbsp; &nbsp; &nbsp;<b>Młodszy Specjalista ds. Likwidacji Szkód Komunikacyjnych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.<b><br></b></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Obsługa szkód komunikacyjnych z ryzyka Odpowiedzialności Cywilnej i Autocasco. Dedykowany likwidator szkód dla wybranych klientów z umowami generalnymi.</span><br></p></blockquote>",
+          "text": "<blockquote><p>01/2006 - 04/2010 &nbsp; &nbsp; &nbsp;<b>Młodszy Specjalista ds. Likwidacji Szkód Komunikacyjnych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.<b><br></b></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Obsługa szkód komunikacyjnych z ryzyka Odpowiedzialności Cywilnej i Autocasco. Dedykowany likwidator szkód dla wybranych klientów z umowami generalnymi.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -503,11 +503,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p>10/2003 - 11/2005 &nbsp; &nbsp; &nbsp; <b>&nbsp;Regionalny Specjalista ds. Floty i Dystrybucji</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Nestle Waters Oddział Dar Natury Sp. z o.o.<br></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Analiza efektywności i kosztów dystrybucji. Nadzór nad gospodarką magazynową. Analiza sprzedaży w regionie północnym Polski.</span><br></p></blockquote>",
+          "text": "<blockquote><p>10/2003 - 11/2005 &nbsp; &nbsp; &nbsp; <b>&nbsp;Regionalny Specjalista ds. Floty i Dystrybucji</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Nestle Waters Oddział Dar Natury Sp. z o.o.<br></p><p><br></p><p><span style=\"font-size: 1.07rem; font-style: normal;\">Analiza efektywności i kosztów dystrybucji. Nadzór nad gospodarką magazynową. Analiza sprzedaży w regionie północnym Polski.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -521,8 +521,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
           "text": "<blockquote><p>02/2003 - 10/2003 &nbsp; &nbsp; &nbsp; &nbsp;<b>Kierownik Działu Dystrybucji w Regionalnym Centrum Dystrybucji</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ESI Polska Zakład Dar Natury Sp. z o.o.<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Zarządzanie dystrybucją i gospodarką magazynową, nadzór nad wykonaniem budżetu działu. Kierowanie zespołem 4 specjalistów, 3 pracowników magazynu, 26 kierowców-dostawców.</span></p></blockquote>",
@@ -539,7 +539,7 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgColor": "#322c2c"
           },
@@ -580,7 +580,7 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgColor": "#000000"
           },
@@ -621,8 +621,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text": "<blockquote><p>01/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Selenium Python od podstaw</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Instalacja narzędzi (Webdriver, PyTest, Allure itd.) lokalizowanie elementów na stronie i wykonywanie na nich akcji, pisanie testów automatycznych, tworzenie raportów z testów, czytanie danych z pliku.</span></p></blockquote>",
@@ -639,8 +639,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text": "<blockquote><p>11/2019 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Kurs – Python dla początkujących</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;Organizator: Udemy</p><p><br></p><p><span style=\"font-style: normal;\">Wprowadzenie do języka Python 3: zmienne, instrukcje warunkowe, pętle, moduły, funkcje, obsługa błędów.</span></p></blockquote>",
@@ -657,8 +657,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text": "<blockquote><p>11/2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Certyfikat - ISTQB Certified Tester Foundation Level</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizacja: Global Association for Software Quality (GASQ)<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Uzyskałem podstawowy certyfikat testera oprogramowania - ISTQB (International Software Testing Qualifications Board)</span></p></blockquote>",
@@ -675,8 +675,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text": "<blockquote><p>07/2018 - 10/2018 &nbsp; &nbsp;<b>Kurs -</b>&nbsp;<b>Tester Manualny</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Organizator: Software Development Academy Sp. z o.o.<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">ponad 150 godzin zajęć z m. innymi: techniki projektowania testów, raportowanie defektów, narzędzia wspierające testowanie, testowanie API, SQL, badanie i analiza ryzyka, metodyki wytwarzania oprogramowania (Agille, Waterfall), wstęp do automatyzacji w oparciu o Selenium WebDriver.</span></p></blockquote>",
@@ -693,8 +693,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text": "<blockquote><p>02/2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Kurs - Analiza Danych – Podstawy, Teoria i Praktyka</b>\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizator: Udemy.com</p><p><br></p><p><span style=\"font-style: normal;\">Pozyskiwanie, przechowywanie i analiza danych z praktycznym wykorzystaniem Excel i SQL.</span></p></blockquote>",
@@ -711,8 +711,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text": "<blockquote><p>10/2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Kurs - SQL Server - zapytania. Querying</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizator: Udemy.com<br></p><p><br></p><p><span style=\"font-style: normal;\">Budowanie zapytań w Microsoft SQL Server (Transact-SQL).</span></p></blockquote>",
@@ -752,11 +752,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">Ms Office (Word, Excel, PowerPoint) i pokrewne LibreOffice, Dokumenty i Arkusze Google, budowanie podstawowych zapytań do bazy w SQL (MySQL, MS SQL), Jira, Confluence, YouTrack, język Python 3 (podstawy, umożliwiające np. budowanie skryptu automatyzującego raportowanie), Selenium Web Driver, systemy Windows i Linux, podstawowa obsługa programów graficznych i edytorów wideo, posiadam znajomość budowy komputerów PC, ich konfiguracji i modernizacji.</span></p><p><br></p><p><span style=\"font-style: normal;\">Ponadto, mam wieloletnie doświadczenie w pracy w firmie ubezpieczeniowej w obszarze likwidacji szkód komunikacyjnych w pełnym zakresie tj. od zgłoszenia szkody, przez proces wyceny, wydania decyzji, odwoławczy, aż po proces sądowy. Posiadam także duże doświadczenie we współpracy z kancelariami prawnymi w Polsce.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prawo jazdy kat \"B\".</span></p><p><br></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">Ms Office (Word, Excel, PowerPoint) i pokrewne LibreOffice, Dokumenty i Arkusze Google, budowanie podstawowych zapytań do bazy w SQL (MySQL, MS SQL), Jira, Confluence, YouTrack, język Python 3 (podstawy, umożliwiające np. budowanie skryptu automatyzującego raportowanie), Selenium Web Driver, systemy Windows i Linux, podstawowa obsługa programów graficznych i edytorów wideo, posiadam znajomość budowy komputerów PC, ich konfiguracji i modernizacji.</span></p><p><br></p><p><span style=\"font-style: normal;\">Ponadto, mam wieloletnie doświadczenie w pracy w firmie ubezpieczeniowej w obszarze likwidacji szkód komunikacyjnych w pełnym zakresie tj. od zgłoszenia szkody, przez proces wyceny, wydania decyzji, odwoławczy, aż po proces sądowy. Posiadam także duże doświadczenie we współpracy z kancelariami prawnymi w Polsce.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prawo jazdy kat \"B\".</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -793,8 +793,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text": "<blockquote><p>język angielski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;poziom B1 / B2</p></blockquote>",
@@ -834,11 +834,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p><br></p><p><span style=\"font-style: normal;\">Od dziecka interesowały mnie nowinki techniczne, nowe odkrycia, wizje przyszłości itp. Moim pierwszym ulubionym programem popularno-naukowym była Sonda prowadzona przez Zdzisława Kamińskiego i Andrzeja Kurka. Jako że program był prowadzony w konwencji sporu dwóch punktów widzenia na omawiane akurat zagadnienia, ja zawsze \"trzymałem stronę\" Zdzisława Kamińskiego. </span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Jestem fanem serii Star Trek, zwłaszcza edycji \"Następne Pokolenie\", w którym zawarto wiele aspektów współczesnej fizyki i przedstawiono ciekawą wizję przyszłości. Przy produkcji tego serialu brali udział m. innymi eksperci NASA oraz ludzie nauki jak Leonard Mlodinow. Na ekranie pojawił się także Stephen Hawking, grający co ciekawe samego siebie.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">W konsekwencji powyższego, takie dziedziny jak kosmologia, czyli nauka o powstaniu wszechświata i jego funkcjonowaniu, a także astrofizyka stały się dla mnie naturalnymi obszarami do dalszego poznawania i zgłębiania wiedzy o świecie, w którym żyjemy.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Lubię także historię, bo dzięki niej łatwiej zrozumieć współczesny świat. To co dzieje się obecnie w kraju i zagranicą ma niemal zawsze swoje korzenie w przeszłości bliższej, czy dalszej.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Z aktywności lubię jazdę na rowerze, pływanie, żeglowanie, czy wędrówki i biwakowanie.</span></p><p><br></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal; font-size: 1.07rem;\">Od dziecka interesowały mnie nowinki techniczne, nowe odkrycia, wizje przyszłości itp. Moim pierwszym ulubionym programem popularno-naukowym była Sonda prowadzona przez Zdzisława Kamińskiego i Andrzeja Kurka. Jako że program był prowadzony w konwencji sporu dwóch punktów widzenia na omawiane akurat zagadnienia, ja zawsze \"trzymałem stronę\" Zdzisława Kamińskiego.</span><br></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Jestem fanem serii Star Trek, zwłaszcza edycji \"Następne Pokolenie\", w którym zawarto wiele aspektów współczesnej fizyki i przedstawiono ciekawą wizję przyszłości. Przy produkcji tego serialu brali udział m. innymi eksperci NASA oraz ludzie nauki jak Leonard Mlodinow. Na ekranie pojawił się także Stephen Hawking, grający co ciekawe samego siebie.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">W konsekwencji powyższego, takie dziedziny jak kosmologia, czyli nauka o powstaniu wszechświata i jego funkcjonowaniu, a także astrofizyka stały się dla mnie naturalnymi obszarami do dalszego poznawania i zgłębiania wiedzy o świecie, w którym żyjemy.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Lubię także historię, bo dzięki niej łatwiej zrozumieć współczesny świat. To co dzieje się obecnie w kraju i zagranicą ma niemal zawsze swoje korzenie w przeszłości bliższej, czy dalszej.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Z aktywności lubię jazdę na rowerze, pływanie, żeglowanie, czy wędrówki i biwakowanie.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -901,7 +901,7 @@
             }
           },
           "title": "<a href=\"gallery.html#header3-22\" class=\"text-info\">Moja galeria</a>",
-          "text": "<a href=\"gallery.html#header3-22\" class=\"text-info\">Zdjęcia z odwiedzonych ostatnio ciekawych miejsc</a>",
+          "text": "<a href=\"gallery.html#header3-22\" class=\"text-info\"><b>Zdjęcia odwiedzonych ostatnio ciekawych miejsc</b></a>",
           "_tags": [
             "Theme"
           ],
@@ -921,7 +921,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#000000"
           },
           "title": "<span style=\"font-weight: normal;\">Kontakt ze mną</span>",
