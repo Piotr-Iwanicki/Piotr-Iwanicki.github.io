@@ -11,7 +11,7 @@
         "successColor": "#a38f84",
         "infoColor": "#cccccc",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#e25041",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -39,10 +39,10 @@
     "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#cccccc",
+      "colorText": "#efefef",
       "colorBg": "#a38f84",
-      "colorButton": "",
-      "colorLink": "#424a4d",
+      "colorButton": "#424a4d",
+      "colorLink": "#8c8c8c",
       "underlineLink": true,
       "opacity": "73",
       "opacityOverlay": "69",
@@ -50,7 +50,7 @@
       "textButton": "OK, Rozumiem"
     },
     "gdpr": false,
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -80,7 +80,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"#top\">Strona główna</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#header1-0\">Strona główna</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#header3-z\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -154,7 +154,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; PI &nbsp;Piotr Iwanicki</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; PI &nbsp;Piotr Iwanicki</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-t"
         },
@@ -254,7 +254,7 @@
             "bgColor": "#000000"
           },
           "title": "Informacje o mnie",
-          "meta": "&nbsp;aktualizacja 25.06.2020 r.",
+          "meta": "&nbsp;aktualizacja 30.06.2020 r.",
           "_tags": [
             "Theme"
           ],
@@ -365,11 +365,11 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#header3-13\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#header3-1f\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#header3-1o\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#header3-1r\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html#header3-1t\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">zobacz</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
@@ -417,7 +417,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p>03/2019 – 01/2020 &nbsp; &nbsp; &nbsp; <b>Analityk Danych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global Income S.C.<br></p><p><br></p><p><span style=\"font-style: normal;\">Analiza sprzedaży głównie w obszaże e-commerce, raportowanie, dostosowywanie poziomu cen produktów, monitoring stanów magazynowych.</span></p></blockquote>",
+          "text": "<blockquote><p>03/2019 – 01/2020 &nbsp; &nbsp; &nbsp; <b>Analityk Danych</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global Income S.C.<br></p><p><br></p><p><span style=\"font-style: normal;\">Analiza sprzedaży głównie w obszarze e-commerce (Allegro), raportowanie, dostosowywanie poziomu cen produktów, monitoring stanów magazynowych.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -453,7 +453,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p>12/2012 - 06/2015 &nbsp; &nbsp; &nbsp; &nbsp;<b>Specjalista Dział Ekspertyz Szkód Komunikacyjnych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.</p><p><br></p><p><span style=\"font-style: normal;\">Obsługa spraw sądowych prowadzonych przez kancelarie prawne, głównie z obszaru szkód komunikacyjnych.</span></p></blockquote>",
+          "text": "<blockquote><p>12/2012 - 06/2015 &nbsp; &nbsp; &nbsp; &nbsp;<b>Specjalista Dział Ekspertyz Szkód Komunikacyjnych</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sopockie Towarzystwo Ubezpieczeń Ergo Hestia S.A.</p><p><br></p><p><span style=\"font-style: normal;\">Koordynacja i obsługa spraw sądowych (uzgadnianie stanowiska, aktualizacja rezerw, decyzje co do zastosowania środka zaskarżenia itp.) prowadzonych przez zewnętrzne kancelarie prawne na terenie Polski, głównie z obszaru szkód komunikacyjnych.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -565,9 +565,9 @@
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "2",
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "bgColor": "#080101"
           },
           "title": "Wykształcenie",
@@ -606,9 +606,9 @@
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "2",
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgColor": "#000000"
           },
           "title": "Szkolenia &amp; certyfikaty",
@@ -625,7 +625,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote><p>01/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Selenium Python od podstaw</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Instalacja narzędzi (Webdriver, PyTest, Allure itd,) lokalizowanie elementów na stronie i wykonywanie na nich akcji, pisanie testów automatycznych, tworzenie raportów z testów, czytanie danych z pliku.</span></p></blockquote>",
+          "text": "<blockquote><p>01/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Selenium Python od podstaw</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Instalacja narzędzi (Webdriver, PyTest, Allure itd.) lokalizowanie elementów na stronie i wykonywanie na nich akcji, pisanie testów automatycznych, tworzenie raportów z testów, czytanie danych z pliku.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -679,7 +679,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote><p>07/2018 - 10/2018 &nbsp; &nbsp;<b>Tester Manualny - kurs</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Organizator: Software Development Academy Sp. z o.o.<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">ponad 150 godzin zajęć z m.innymi: techniki projektowania testów, raportowanie defektów, narzędzia wspierające testowanie, testowanie API, SQL, badanie i analiza ryzyka, metodyki wytwarzania oprogramowania (Agille, Waterfall), wstęp do automatyzacji w oparciu o Selenium WebDriver.</span></p></blockquote>",
+          "text": "<blockquote><p>07/2018 - 10/2018 &nbsp; &nbsp;<b>Kurs -</b>&nbsp;<b>Tester Manualny</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Organizator: Software Development Academy Sp. z o.o.<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">ponad 150 godzin zajęć z m. innymi: techniki projektowania testów, raportowanie defektów, narzędzia wspierające testowanie, testowanie API, SQL, badanie i analiza ryzyka, metodyki wytwarzania oprogramowania (Agille, Waterfall), wstęp do automatyzacji w oparciu o Selenium WebDriver.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -737,8 +737,8 @@
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
+            "showMeta": false,
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
@@ -756,25 +756,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1q",
-          "_styles": {
-            "DIV": {
-              "color": "#cccccc"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#322c2c"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">Ms Office (Word, Excel, PowerPoint) i pokrewne LibreOffice, Dokumenty i Arkusze Google, budowanie podstawowych zapytań do bazy w SQL (MySQL, MS SQL), Jira, Confluence, YouTrack, język Python 3 (podstawy, umożliwiające np. budowanie skryptu automatyzującego raportowanie), Selenium Web Driver, systemy Windows i Linux, podstawowa obsługa programów graficznych i edytorów wideo, posiadam znajomość budowy komputerów PC, ich konfiguracji i modernizacji.</span></p><p><br></p><p><span style=\"font-style: normal;\">Ponadto, mam wieloletnie doświadczenie w pracy w firmie ubezpieczeniowej w obszarze likwidacji szkód komunikacyjnych w pełnym zakresie tj. od zgłoszenia szkody, przez proces wyceny, wydania decyzji, odwoławczy, aż po proces sądowy. Posiadam także duże doświadczenie we współpracy z kancelariami prawnymi w Polsce.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prawo jazdy kat \"B\".</span></p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -796,8 +778,8 @@
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
+            "showMeta": false,
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgColor": "#000000"
           },
@@ -815,7 +797,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>język angielski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;poziom B1 / B2</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -837,9 +819,9 @@
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "2",
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "bgColor": "#322c2c"
           },
           "title": "Zainteresowania",
@@ -856,7 +838,7 @@
             "paddingBottom": 1,
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p><br></p><p><span style=\"font-style: normal;\">Od dziecka interesowały mnie nowinki techniczne, nowe odkrycia, wizje przyszłości itp. Moim pierwszym ulubionym programem popularno-naukowym była Sonda prowadzona przez Zdzisława Kamińskiego i Andrzeja Kurka. Jako że program był prowadzony w konwencji sporu dwóch punktów widzenia na omawiane akurat zagadnienia, ja zawsze \"trzymałem stronę\" Zdzisława Kamińskiego. </span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Jestem fanem serii Star Trek, zwłaszcza edycji \"Następne Pokolenie\", w którym zawarto wiele aspektów współczesnej fizyki i przedstawiono ciekawą wizję przyszłości. Przy produkcji tego serialu brali udział m. innymi eksperci NASA oraz ludzie nauki jak Leonard Mlodinow. Na ekranie pojawił się także Stephen Hawking, grający co ciekawe samego siebie.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">W konsekwencji powyższego, takie dziedziny jak kosmologia, czyli nauka o powstaniu wszechświata i jego funkcjonowaniu, a także astrofizyka stały się dla mnie naturalnymi obszarami do dalszego poznawania i zgłębiania wiedzy o świecie, w którym żyjemy.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Lubię także historię, bo dzięki niej łatwiej zrozumieć współczesny świat. To co dzieje się obecnie w kraju i zagranicą ma niemal zawsze swoje korzenie w przeszłości bliższej, czy dalszej.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Z aktywności lubię jazdę na rowerze, pływanie, żeglowanie, czy wędrówki i biwakowanie.</span></p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -926,6 +908,29 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-1x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">Kontakt ze mną</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-23"
         },
         {
           "_params": {
@@ -1178,7 +1183,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"#top\">Strona główna</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#features3-y\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Wybierz sekcję</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:piwanicki@outlook.com\">wyślij email</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#contacts1-12\">Kontakty</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#header1-0\">Strona główna</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"index.html#header3-z\">Informacje o mnie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"gallery.html#header3-22\">Galeria</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1252,7 +1257,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; PI &nbsp;Piotr Iwanicki</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; PI &nbsp;Piotr Iwanicki</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1y"
         },
