@@ -50,7 +50,7 @@
       "textButton": "OK, Rozumiem"
     },
     "gdpr": false,
-    "uniqCompNum": 76,
+    "uniqCompNum": 77,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -625,6 +625,24 @@
             "paddingBottom": "2",
             "bgColor": "#000000"
           },
+          "text": "<blockquote><p>07/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs - Customer Due Diligence: AML Controls and Procedures</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Wprowadzenie do działań ograniczających ryzyko prania pieniędzy i finansowania terroryzmu w instytucjach finansowych, poruszane zaganienia: KYC, PEP/FEP, CDD, EDD, AML/CFT, podstawowe standarty, procedury, ryzyka.</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "content2-24"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
           "text": "<blockquote><p>01/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Selenium Python od podstaw</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Instalacja narzędzi (Webdriver, PyTest, Allure itd.) lokalizowanie elementów na stronie i wykonywanie na nich akcji, pisanie testów automatycznych, tworzenie raportów z testów, czytanie danych z pliku.</span></p></blockquote>",
           "_tags": [
             "Theme"
@@ -838,7 +856,7 @@
             "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal; font-size: 1.07rem;\">Od dziecka interesowały mnie nowinki techniczne, nowe odkrycia, wizje przyszłości itp. Moim pierwszym ulubionym programem popularno-naukowym była Sonda prowadzona przez Zdzisława Kamińskiego i Andrzeja Kurka. Jako że program był prowadzony w konwencji sporu dwóch punktów widzenia na omawiane akurat zagadnienia, ja zawsze \"trzymałem stronę\" Zdzisława Kamińskiego.</span><br></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Jestem fanem serii Star Trek, zwłaszcza edycji \"Następne Pokolenie\", w którym zawarto wiele aspektów współczesnej fizyki i przedstawiono ciekawą wizję przyszłości. Przy produkcji tego serialu brali udział m. innymi eksperci NASA oraz ludzie nauki jak Leonard Mlodinow. Na ekranie pojawił się także Stephen Hawking, grający co ciekawe samego siebie.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">W konsekwencji powyższego, takie dziedziny jak kosmologia, czyli nauka o powstaniu wszechświata i jego funkcjonowaniu, a także astrofizyka stały się dla mnie naturalnymi obszarami do dalszego poznawania i zgłębiania wiedzy o świecie, w którym żyjemy.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Lubię także historię, bo dzięki niej łatwiej zrozumieć współczesny świat. To co dzieje się obecnie w kraju i zagranicą ma niemal zawsze swoje korzenie w przeszłości bliższej, czy dalszej.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Z aktywności lubię jazdę na rowerze, pływanie, żeglowanie, czy wędrówki i biwakowanie.</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal; font-size: 1.07rem;\">Od dziecka interesowały mnie nowinki techniczne, nowe odkrycia, wizje przyszłości itp. Moim pierwszym ulubionym programem popularno-naukowym była Sonda prowadzona przez Zdzisława Kamińskiego i Andrzeja Kurka. Jako że program był prowadzony w konwencji sporu dwóch punktów widzenia na omawiane akurat zagadnienia, ja zawsze \"trzymałem stronę\" Zdzisława Kamińskiego.</span><br></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Jestem fanem serii Star Trek, zwłaszcza edycji Następne Pokolenie, w którym zawarto wiele aspektów współczesnej fizyki i przedstawiono ciekawą wizję przyszłości. Przy produkcji tego serialu brali udział m. innymi eksperci NASA oraz ludzie nauki jak Leonard Mlodinow. Na ekranie pojawił się także Stephen Hawking, grający co ciekawe samego siebie.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">W konsekwencji powyższego, takie dziedziny jak kosmologia, czyli nauka o powstaniu wszechświata i jego funkcjonowaniu, a także astrofizyka stały się dla mnie naturalnymi obszarami do dalszego poznawania i zgłębiania wiedzy o świecie, w którym żyjemy.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Lubię także historię, bo dzięki niej łatwiej zrozumieć współczesny świat. To co dzieje się obecnie w kraju i zagranicą ma niemal zawsze swoje korzenie w przeszłości bliższej, czy dalszej.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Z aktywności lubię jazdę na rowerze, pływanie, żeglowanie, czy wędrówki i biwakowanie.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
