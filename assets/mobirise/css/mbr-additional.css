@@ -655,6 +655,13 @@ section.form .container {
 #content2-1u DIV {
   color: #cccccc;
 }
+#msg-box6-25 h3,
+#msg-box6-25 p {
+  color: #fff;
+}
+#msg-box6-25 P {
+  color: #cccccc;
+}
 #msg-box6-1x h3,
 #msg-box6-1x p {
   color: #fff;
