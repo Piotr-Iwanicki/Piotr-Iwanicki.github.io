@@ -50,7 +50,7 @@
       "textButton": "OK, Rozumiem"
     },
     "gdpr": false,
-    "uniqCompNum": 78,
+    "uniqCompNum": 80,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -618,6 +618,24 @@
           ],
           "_name": "header3",
           "_anchor": "header3-1h"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote><p>07/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Podstawy Manualnego Testowania Oprogramowania</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Tworzenie scenariuszy i przypadków testowych, narzędzia zarządzania przypadkami testowymi i projektami (qTest, Jira), raportowanie defektów, techniki testowania, poziomy testów.</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "content2-27"
         },
         {
           "_params": {
