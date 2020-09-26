@@ -50,7 +50,7 @@
       "textButton": "OK, Rozumiem"
     },
     "gdpr": false,
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -625,6 +625,24 @@
             "paddingBottom": "2",
             "bgColor": "#000000"
           },
+          "text": "<blockquote><p>09/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Wprowadzenie do Git i GitHub</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Wprowadzenie do systemu kontroli wersji Git, instalacja Git, zakładanie repozytoriów, klonowanie i zarządzanie Git z poziomu GitBush i PowerShell oraz Visual Studio Code. Publikowanie projektów na GitHub, GitHub Pages (Push, Pull).</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "content2-28"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
           "text": "<blockquote><p>07/2020 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Kurs – Podstawy Manualnego Testowania Oprogramowania</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Organizator: Udemy<b><br></b></p><p><br></p><p><span style=\"font-style: normal;\">Tworzenie scenariuszy i przypadków testowych, narzędzia zarządzania przypadkami testowymi i projektami (qTest, Jira), raportowanie defektów, techniki testowania, poziomy testów.</span></p></blockquote>",
           "_tags": [
             "Theme"
@@ -792,7 +810,7 @@
             "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">Ms Office (Word, Excel, PowerPoint) i pokrewne LibreOffice, Dokumenty i Arkusze Google, budowanie podstawowych zapytań do bazy w SQL (MySQL, MS SQL), Jira, Confluence, YouTrack, język Python 3 (podstawy, umożliwiające np. budowanie skryptu automatyzującego raportowanie), Selenium Web Driver, systemy Windows i Linux, podstawowa obsługa programów graficznych i edytorów wideo, posiadam znajomość budowy komputerów PC, ich konfiguracji i modernizacji.</span></p><p><br></p><p><span style=\"font-style: normal;\">Ponadto, mam wieloletnie doświadczenie w pracy w firmie ubezpieczeniowej w obszarze likwidacji szkód komunikacyjnych w pełnym zakresie tj. od zgłoszenia szkody, przez proces wyceny, wydania decyzji, odwoławczy, aż po proces sądowy. Posiadam także duże doświadczenie we współpracy z kancelariami prawnymi w Polsce.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prawo jazdy kat \"B\".</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">Ms Office (Word, Excel, PowerPoint) i pokrewne LibreOffice, Dokumenty i Arkusze Google, budowanie podstawowych zapytań do bazy w SQL (MySQL, MS SQL), Jira, Confluence, YouTrack, język Python 3 (podstawy, umożliwiające np. budowanie skryptu automatyzującego raportowanie), Selenium Web Driver, Git i GitHub, systemy Windows i Linux, podstawowa obsługa programów graficznych i edytorów wideo, posiadam znajomość budowy komputerów PC, ich konfiguracji i modernizacji.</span></p><p><br></p><p><span style=\"font-style: normal;\">Ponadto, mam wieloletnie doświadczenie w pracy w firmie ubezpieczeniowej w obszarze likwidacji szkód komunikacyjnych w pełnym zakresie tj. od zgłoszenia szkody, przez proces wyceny, wydania decyzji, odwoławczy, aż po proces sądowy. Posiadam także duże doświadczenie we współpracy z kancelariami prawnymi w Polsce.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prawo jazdy kat \"B\".</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
