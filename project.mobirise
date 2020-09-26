@@ -254,7 +254,7 @@
             "bgColor": "#000000"
           },
           "title": "Informacje o mnie",
-          "meta": "&nbsp;aktualizacja 28.07.2020 r.",
+          "meta": "&nbsp;aktualizacja 26.09.2020 r.",
           "_tags": [
             "Theme"
           ],
@@ -810,7 +810,7 @@
             "paddingBottom": "2",
             "bgColor": "#322c2c"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">Ms Office (Word, Excel, PowerPoint) i pokrewne LibreOffice, Dokumenty i Arkusze Google, budowanie podstawowych zapytań do bazy w SQL (MySQL, MS SQL), Jira, Confluence, YouTrack, język Python 3 (podstawy, umożliwiające np. budowanie skryptu automatyzującego raportowanie), Selenium Web Driver, Git i GitHub, systemy Windows i Linux, podstawowa obsługa programów graficznych i edytorów wideo, posiadam znajomość budowy komputerów PC, ich konfiguracji i modernizacji.</span></p><p><br></p><p><span style=\"font-style: normal;\">Ponadto, mam wieloletnie doświadczenie w pracy w firmie ubezpieczeniowej w obszarze likwidacji szkód komunikacyjnych w pełnym zakresie tj. od zgłoszenia szkody, przez proces wyceny, wydania decyzji, odwoławczy, aż po proces sądowy. Posiadam także duże doświadczenie we współpracy z kancelariami prawnymi w Polsce.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prawo jazdy kat \"B\".</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">Ms Office (Word, Excel, PowerPoint) i pokrewne LibreOffice, Dokumenty i Arkusze Google, budowanie podstawowych zapytań do bazy w SQL (MySQL, MS SQL), Jira, Confluence, YouTrack, język Python 3 (podstawy, umożliwiające np. budowanie skryptu automatyzującego raportowanie), Selenium Web Driver, Git i GitHub, systemy Windows i Linux, podstawowa obsługa programów graficznych i edytorów wideo, posiadam znajomość budowy komputerów PC, ich konfiguracji i modernizacji. Na kursach testowania oprogramowania nauczyłem się podstawowych technik testowania, tworzenia scenariuszy i przypadków testowych oraz prawidłowego raportowania błędów.</span></p><p><br></p><p><span style=\"font-style: normal;\">Ponadto, mam wieloletnie doświadczenie w pracy w firmie ubezpieczeniowej w obszarze likwidacji szkód komunikacyjnych w pełnym zakresie tj. od zgłoszenia szkody, przez proces wyceny, wydania decyzji, odwoławczy, aż po proces sądowy. Posiadam także duże doświadczenie we współpracy z kancelariami prawnymi w Polsce.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Prawo jazdy kat \"B\".</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Zapraszam na moje konto w GitHub =&gt; <b>https://github.com/Piotr-Iwanicki/</b></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
